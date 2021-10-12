@@ -1,0 +1,19 @@
+{
+  "name": "tinyfunction",
+  "version": "1.0.0",
+  "description": "Simple wrapper for tinyfunction calls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prakis/tinyfunction.git"
+  },
+  "author": "Kishore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prakis/tinyfunction/issues"
+  },
+  "homepage": "https://github.com/prakis/tinyfunction#readme"
+}
